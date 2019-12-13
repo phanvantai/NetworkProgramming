@@ -65,13 +65,13 @@ public class Client3 extends Thread {
 class Constants {
     public static final int CLIENT_NUM = 3;
 
-    public static final String SERVER_IP = "127.0.0.1";
+    public static final String SERVER_IP = "192.168.1.0";
     public static final int SERVER_PORT = 9999;
 
-    public static final String CLIENT2_IP = "127.0.0.1";
+    public static final String CLIENT2_IP = "10.10.2.0";
     public static final int CLIENT2_PORT = 22222;
 
-    public static final String CLIENT3_IP = "127.0.0.1";
+    public static final String CLIENT3_IP = "10.10.3.0";
     public static final int CLIENT3_PORT = 33333;
 
     public static final int BUFFER_SIZE = 1024*100;
