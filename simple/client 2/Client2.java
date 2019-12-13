@@ -64,7 +64,7 @@ public class Client2 extends Thread {
 class Constants {
     public static final int CLIENT_NUM = 3;
 
-    public static final String SERVER_IP = "192.168.1.0";
+    public static final String SERVER_IP = "192.168.21.0";
     public static final int SERVER_PORT = 9999;
 
     public static final String CLIENT2_IP = "10.10.2.0";
